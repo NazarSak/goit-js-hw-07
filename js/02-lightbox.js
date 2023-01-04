@@ -18,7 +18,8 @@ return `
   
   return photos
   }
-
+ 
+  
   const casePhotos = creatingPhotos (galleryItems);
   generalUL.insertAdjacentHTML("beforeend",casePhotos)
 

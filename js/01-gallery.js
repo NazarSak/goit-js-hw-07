@@ -55,7 +55,6 @@ function logPicture (evt) {
   if (evt.code === "Escape") {
     instance.close()
   }
-
 }
 }
  
